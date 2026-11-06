@@ -21,3 +21,11 @@ Controllo eseguito sul sito statico (31 pagine x IT/EN) e sull'archivio original
 ## 3. Cosa serve da te per chiudere
 - I file originali (immagini, PDF, xlsx) dalla libreria media del vecchio sito, oppure l'accesso per scaricarli.
 - I testi corretti per gli articoli con parti perse.
+
+## 4. Interventi eseguiti (6 novembre 2026)
+- Ripuliti i codici del vecchio editor e inseriti i testi completi in 8 news italiane e 3 inglesi esistenti.
+- Create 15 pagine dall'archivio: 12 in italiano, 3 in inglese (le coppie IT/EN collegate: Kit Dignità 8x1000 e Colazione per tutti).
+- Unificati i duplicati (Tree planting, Gandini STEM, Dignity Kit Project, Bilancio 2023).
+- Corrette le parole troncate ovvie ("Diminuire", "Assicurare", "Creare opportunità"). Le altre 7 parti con testo perso sono segnate in giallo come [testo da completare] nelle pagine: Kit Dignità (2), Programma alimentare (1), Dalla casa famiglia al College (4).
+- Articolo "Sanitary pads & 8x1000 2025": il testo originale è perso, resta il riassunto già presente.
+- Elenco dei file da recuperare: vedi MEDIA-MANCANTI.md.
