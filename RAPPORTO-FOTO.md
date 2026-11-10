@@ -12,7 +12,7 @@ Classificazione fatta guardando le immagini (stile, risoluzione, testo alternati
 | `project-family.webp` | Famiglia allargata sorridente (assistenza familiare) | progetti, progetto-assistenza-familiare, progetto-assistenza-sociale |
 | `project-sewing.webp` | Due donne alla macchina da cucire (sartoria) | progetti, progetto-lavoro-sviluppo, progetto-microprogetti, progetto-sartoria |
 | `project-students.webp` | Studenti che studiano insieme | progetti, progetto-borse-studio, progetto-convitto, progetto-educazione-formazione |
-| `proposta-1.webp` | Ritaglio della bozza grafica del sito con il ragazzo sorridente: è la foto della fascia "Costruiamo opportunità" in home (ingrandita, quindi sgranata) | index |
+| `proposta-1.webp` | Immagine della bozza grafica del sito (non una foto). In home ne vengono usati 4 ritagli, tutti sgranati e con testo alternativo "Immagine illustrativa": la foto della sezione "Makobeni" e le 3 card dei progetti (Istruzione, Alimentazione, Autonomia). La foto della fascia "Costruiamo opportunità" è stata già sostituita con una foto vera. | index |
 
 ## Probabilmente REALI (foto dall'archivio o dal campo)
 
