@@ -1,0 +1,3370 @@
+[
+ {
+  "file": "bilancio.html",
+  "slug": "bilancio",
+  "lang": "it",
+  "type": "page",
+  "title": "Bilancio | Watoto Kenya ODV",
+  "description": "Consulta i bilanci pubblicati, dal 2015 al 2024. I documenti originali sono disponibili in PDF.",
+  "canonical": "https://www.watotokenya.org/bilancio.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/bilancio.html",
+   "en": "https://www.watotokenya.org/en/bilancio.html",
+   "x-default": "https://www.watotokenya.org/bilancio.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Bilancio"
+    ],
+    "images": [
+     "assets/img/testata-8.webp"
+    ],
+    "chars": 64
+   },
+   {
+    "class": "wrap document-section",
+    "id": null,
+    "headings": [
+     "I documenti dell’associazione"
+    ],
+    "images": [],
+    "chars": 394
+   }
+  ]
+ },
+ {
+  "file": "chi-siamo.html",
+  "slug": "chi-siamo",
+  "lang": "it",
+  "type": "page",
+  "title": "Il futuro cresce. Insieme. | Watoto Kenya ODV",
+  "description": "Accanto ai bambini e ai giovani di Makobeni, perché possano costruire il proprio domani.",
+  "canonical": "https://www.watotokenya.org/chi-siamo.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/chi-siamo.html",
+   "en": "https://www.watotokenya.org/en/chi-siamo.html",
+   "x-default": "https://www.watotokenya.org/chi-siamo.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero",
+    "id": null,
+    "headings": [
+     "Il futuro cresce. Insieme."
+    ],
+    "images": [
+     "assets/img/testata-6.webp"
+    ],
+    "chars": 142
+   },
+   {
+    "class": "wrap about-story",
+    "id": null,
+    "headings": [
+     "L’inizio di un impegno condiviso."
+    ],
+    "images": [],
+    "chars": 359
+   },
+   {
+    "class": "where",
+    "id": "dove",
+    "headings": [
+     "Dove siamo"
+    ],
+    "images": [],
+    "chars": 177
+   },
+   {
+    "class": "about-values",
+    "id": null,
+    "headings": [
+     "Tre valori. Un impegno quotidiano.",
+     "Rispetto",
+     "Collaborazione",
+     "Cambiamento"
+    ],
+    "images": [],
+    "chars": 225
+   },
+   {
+    "class": "wrap about-path",
+    "id": null,
+    "headings": [
+     "Dalle possibilità ai percorsi di vita.",
+     "Educare e formare",
+     "Assistere e sostenere le famiglie",
+     "Promuovere lavoro e autonomia"
+    ],
+    "images": [
+     "assets/img/hero-training.webp"
+    ],
+    "chars": 284
+   },
+   {
+    "class": "about-callout",
+    "id": null,
+    "headings": [
+     "Le opportunità crescono con noi. E con te."
+    ],
+    "images": [],
+    "chars": 159
+   }
+  ]
+ },
+ {
+  "file": "collaborazioni.html",
+  "slug": "collaborazioni",
+  "lang": "it",
+  "type": "page",
+  "title": "Collaborazioni | Watoto Kenya ODV",
+  "description": "I progetti di Watoto Kenya ODV nascono dalla collaborazione con soggetti pubblici e privati, locali e internazionali. L’associazione promuove anche una…",
+  "canonical": "https://www.watotokenya.org/collaborazioni.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/collaborazioni.html",
+   "en": "https://www.watotokenya.org/en/collaborazioni.html",
+   "x-default": "https://www.watotokenya.org/collaborazioni.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Collaborazioni"
+    ],
+    "images": [
+     "assets/img/testata-3.webp"
+    ],
+    "chars": 21
+   },
+   {
+    "class": "wrap partners-section",
+    "id": null,
+    "headings": [
+     "Il cambiamento si costruisce insieme.",
+     "Istituzioni locali e associazioni",
+     "Ministero dell’istruzione",
+     "Dipartimento dell’infanzia",
+     "Dipartimento della Sanità – Contea di Kilifi",
+     "Altre organizzazioni non governative"
+    ],
+    "images": [
+     "assets/img/partner-0.webp",
+     "assets/img/partner-1.webp",
+     "assets/img/partner-2.webp",
+     "assets/img/partner-3.webp",
+     "assets/img/partner-4.webp"
+    ],
+    "chars": 846
+   }
+  ]
+ },
+ {
+  "file": "contatti.html",
+  "slug": "contatti",
+  "lang": "it",
+  "type": "page",
+  "title": "Contatti | Watoto Kenya ODV",
+  "description": "Per informazioni sull’associazione, sui progetti o su come sostenerci, scrivici.",
+  "canonical": "https://www.watotokenya.org/contatti.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/contatti.html",
+   "en": "https://www.watotokenya.org/en/contatti.html",
+   "x-default": "https://www.watotokenya.org/contatti.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Contatti"
+    ],
+    "images": [
+     "assets/img/testata-4.webp"
+    ],
+    "chars": 63
+   },
+   {
+    "class": "wrap contact-layout",
+    "id": null,
+    "headings": [
+     "Parliamone, insieme.",
+     "Email",
+     "Posta elettronica certificata",
+     "Sede dell’associazione",
+     "Restiamo in contatto"
+    ],
+    "images": [],
+    "chars": 355
+   },
+   {
+    "class": "wrap contact-form-section",
+    "id": null,
+    "headings": [
+     "Scrivici"
+    ],
+    "images": [],
+    "chars": 181
+   }
+  ]
+ },
+ {
+  "file": "cookie-policy.html",
+  "slug": "cookie-policy",
+  "lang": "it",
+  "type": "legal",
+  "title": "Cookie Policy | Watoto Kenya ODV",
+  "description": "Questo sito non usa cookie di profilazione né strumenti di analisi.",
+  "canonical": "https://www.watotokenya.org/cookie-policy.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/cookie-policy.html",
+   "en": "https://www.watotokenya.org/en/cookie-policy.html",
+   "x-default": "https://www.watotokenya.org/cookie-policy.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Cookie Policy"
+    ],
+    "images": [
+     "assets/img/testata-4.webp"
+    ],
+    "chars": 55
+   },
+   {
+    "class": "wrap legal",
+    "id": null,
+    "headings": [
+     "Cosa usa questo sito",
+     "Caratteri e risorse",
+     "Link esterni",
+     "Cambiamenti"
+    ],
+    "images": [],
+    "chars": 768
+   }
+  ]
+ },
+ {
+  "file": "en/bilancio.html",
+  "slug": "bilancio",
+  "lang": "en",
+  "type": "page",
+  "title": "Annual accounts | Watoto Kenya ODV",
+  "description": "Browse the published accounts from 2015 to 2024. Original documents are available as PDFs in Italian.",
+  "canonical": "https://www.watotokenya.org/en/bilancio.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/bilancio.html",
+   "en": "https://www.watotokenya.org/en/bilancio.html",
+   "x-default": "https://www.watotokenya.org/bilancio.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Annual accounts"
+    ],
+    "images": [
+     "../assets/img/testata-8.webp"
+    ],
+    "chars": 61
+   },
+   {
+    "class": "wrap document-section",
+    "id": null,
+    "headings": [
+     "Association documents"
+    ],
+    "images": [],
+    "chars": 462
+   }
+  ]
+ },
+ {
+  "file": "en/chi-siamo.html",
+  "slug": "chi-siamo",
+  "lang": "en",
+  "type": "page",
+  "title": "About us | Watoto Kenya ODV",
+  "description": "Standing alongside children and young people in Makobeni as they build their own future.",
+  "canonical": "https://www.watotokenya.org/en/chi-siamo.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/chi-siamo.html",
+   "en": "https://www.watotokenya.org/en/chi-siamo.html",
+   "x-default": "https://www.watotokenya.org/chi-siamo.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero",
+    "id": null,
+    "headings": [
+     "The future grows. Together."
+    ],
+    "images": [
+     "../assets/img/testata-6.webp"
+    ],
+    "chars": 142
+   },
+   {
+    "class": "wrap about-story",
+    "id": null,
+    "headings": [
+     "The start of a shared commitment."
+    ],
+    "images": [],
+    "chars": 338
+   },
+   {
+    "class": "where",
+    "id": "dove",
+    "headings": [
+     "Where we are"
+    ],
+    "images": [],
+    "chars": 148
+   },
+   {
+    "class": "about-values",
+    "id": null,
+    "headings": [
+     "Three values. A daily commitment.",
+     "Respect",
+     "Partnership",
+     "Change"
+    ],
+    "images": [],
+    "chars": 173
+   },
+   {
+    "class": "wrap about-path",
+    "id": null,
+    "headings": [
+     "Turning possibilities into pathways.",
+     "Education and training",
+     "Care and family support",
+     "Employment and independence"
+    ],
+    "images": [
+     "../assets/img/hero-training.webp"
+    ],
+    "chars": 267
+   },
+   {
+    "class": "about-callout",
+    "id": null,
+    "headings": [
+     "Opportunities grow with us. And with you."
+    ],
+    "images": [],
+    "chars": 159
+   }
+  ]
+ },
+ {
+  "file": "en/collaborazioni.html",
+  "slug": "collaborazioni",
+  "lang": "en",
+  "type": "page",
+  "title": "Partnerships | Watoto Kenya ODV",
+  "description": "Watoto Kenya ODV develops its projects with public and private partners, locally and internationally. The association also promotes cooperation among…",
+  "canonical": "https://www.watotokenya.org/en/collaborazioni.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/collaborazioni.html",
+   "en": "https://www.watotokenya.org/en/collaborazioni.html",
+   "x-default": "https://www.watotokenya.org/collaborazioni.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Partnerships"
+    ],
+    "images": [
+     "../assets/img/testata-3.webp"
+    ],
+    "chars": 28
+   },
+   {
+    "class": "wrap partners-section",
+    "id": null,
+    "headings": [
+     "Change is built together.",
+     "Local institutions and associations",
+     "Ministry of Education",
+     "Children’s Department",
+     "Department of Health – Kilifi County",
+     "Other non-governmental organisations"
+    ],
+    "images": [
+     "../assets/img/partner-0.webp",
+     "../assets/img/partner-1.webp",
+     "../assets/img/partner-2.webp",
+     "../assets/img/partner-3.webp",
+     "../assets/img/partner-4.webp"
+    ],
+    "chars": 800
+   }
+  ]
+ },
+ {
+  "file": "en/contatti.html",
+  "slug": "contatti",
+  "lang": "en",
+  "type": "page",
+  "title": "Contact us | Watoto Kenya ODV",
+  "description": "For information about the association, our projects or how to support us, get in touch.",
+  "canonical": "https://www.watotokenya.org/en/contatti.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/contatti.html",
+   "en": "https://www.watotokenya.org/en/contatti.html",
+   "x-default": "https://www.watotokenya.org/contatti.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Contact us"
+    ],
+    "images": [
+     "../assets/img/testata-4.webp"
+    ],
+    "chars": 58
+   },
+   {
+    "class": "wrap contact-layout",
+    "id": null,
+    "headings": [
+     "Let’s talk.",
+     "Email",
+     "Certified email (PEC)",
+     "Association address",
+     "Stay connected"
+    ],
+    "images": [],
+    "chars": 328
+   },
+   {
+    "class": "wrap contact-form-section",
+    "id": null,
+    "headings": [
+     "Send us a message"
+    ],
+    "images": [],
+    "chars": 177
+   }
+  ]
+ },
+ {
+  "file": "en/cookie-policy.html",
+  "slug": "cookie-policy",
+  "lang": "en",
+  "type": "legal",
+  "title": "Cookie Policy | Watoto Kenya ODV",
+  "description": "This site uses no profiling cookies or analytics tools.",
+  "canonical": "https://www.watotokenya.org/en/cookie-policy.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/cookie-policy.html",
+   "en": "https://www.watotokenya.org/en/cookie-policy.html",
+   "x-default": "https://www.watotokenya.org/cookie-policy.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Cookie Policy"
+    ],
+    "images": [
+     "../assets/img/testata-4.webp"
+    ],
+    "chars": 61
+   },
+   {
+    "class": "wrap legal",
+    "id": null,
+    "headings": [
+     "What this site uses",
+     "Fonts and resources",
+     "External links",
+     "Changes"
+    ],
+    "images": [],
+    "chars": 641
+   }
+  ]
+ },
+ {
+  "file": "en/index.html",
+  "slug": "index",
+  "lang": "en",
+  "type": "home",
+  "title": "Watoto Kenya ODV — Together for the future",
+  "description": "Watoto Kenya ODV supports education, care and opportunities for children and young people in Makobeni, Kenya.",
+  "canonical": "https://www.watotokenya.org/en/",
+  "alternates": {
+   "it": "https://www.watotokenya.org/",
+   "en": "https://www.watotokenya.org/en/",
+   "x-default": "https://www.watotokenya.org/"
+  },
+  "sections": [
+   {
+    "class": "hero",
+    "id": null,
+    "headings": [
+     "The future begins with opportunity."
+    ],
+    "images": [
+     "../assets/img/hero-home-1.webp",
+     "../assets/img/hero-home-2.webp",
+     "../assets/img/hero-home-3.webp",
+     "../assets/img/hero-home-4.webp",
+     "../assets/img/hero-home-5.webp"
+    ],
+    "chars": 159
+   },
+   {
+    "class": "intro wrap",
+    "id": "chi",
+    "headings": [
+     "Makobeni, a community building its own future."
+    ],
+    "images": [],
+    "chars": 251
+   },
+   {
+    "class": "stats",
+    "id": "numeri",
+    "headings": [],
+    "images": [],
+    "chars": 240
+   },
+   {
+    "class": "section wrap",
+    "id": "progetti",
+    "headings": [
+     "Our projects",
+     "Education",
+     "Nutrition",
+     "Opportunity"
+    ],
+    "images": [
+     "../assets/img/card-istruzione.webp",
+     "../assets/img/card-alimentazione.webp"
+    ],
+    "chars": 282
+   },
+   {
+    "class": "voices",
+    "id": "voci",
+    "headings": [
+     "People, gestures, partnerships."
+    ],
+    "images": [],
+    "chars": 685
+   },
+   {
+    "class": "impact",
+    "id": "impatto",
+    "headings": [
+     "A future built together."
+    ],
+    "images": [],
+    "chars": 185
+   },
+   {
+    "class": "support",
+    "id": "sostieni",
+    "headings": [
+     "Let’s create opportunities, together."
+    ],
+    "images": [
+     "../assets/img/support-home.webp"
+    ],
+    "chars": 140
+   },
+   {
+    "class": "cinque",
+    "id": "cinque-per-mille",
+    "headings": [
+     "Your 5×1000 costs you nothing."
+    ],
+    "images": [],
+    "chars": 343
+   }
+  ]
+ },
+ {
+  "file": "en/news-bilancio-2023-wko.html",
+  "slug": "news-bilancio-2023-wko",
+  "lang": "en",
+  "type": "news",
+  "title": "WKO annual accounts 2023 – News | Watoto Kenya ODV",
+  "description": "The association published its 2023 annual accounts for members and supporters.",
+  "canonical": "https://www.watotokenya.org/en/news-bilancio-2023-wko.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-bilancio-2023-wko.html",
+   "en": "https://www.watotokenya.org/en/news-bilancio-2023-wko.html",
+   "x-default": "https://www.watotokenya.org/news-bilancio-2023-wko.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "WKO annual accounts 2023"
+    ],
+    "images": [
+     "../assets/img/testata-6.webp"
+    ],
+    "chars": 49
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-7.webp"
+    ],
+    "chars": 252
+   }
+  ]
+ },
+ {
+  "file": "en/news-breakfast-for-everyone.html",
+  "slug": "news-breakfast-for-everyone",
+  "lang": "en",
+  "type": "news",
+  "title": "Breakfast for everyone – News | Watoto Kenya ODV",
+  "description": "Following the recommendation of the head of the province’s Education Department, with the 2023 school year we integrated the Food Program with support…",
+  "canonical": "https://www.watotokenya.org/en/news-breakfast-for-everyone.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-colazione-per-tutti.html",
+   "en": "https://www.watotokenya.org/en/news-breakfast-for-everyone.html",
+   "x-default": "https://www.watotokenya.org/news-colazione-per-tutti.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Breakfast for everyone"
+    ],
+    "images": [
+     "../assets/img/testata-8.webp"
+    ],
+    "chars": 47
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 1077
+   }
+  ]
+ },
+ {
+  "file": "en/news-dignity-kit-8x1000.html",
+  "slug": "news-dignity-kit-8x1000",
+  "lang": "en",
+  "type": "news",
+  "title": "Dignity Kit: funded by “8×1000 Waldensian Church” – 2023 project – News | Watoto Kenya ODV",
+  "description": "Direct Beneficiaries: 800 girls receive dignity kits 1000 girls between 11 and 18 sensitized and informed 1,000 young people aged between 11 and 18…",
+  "canonical": "https://www.watotokenya.org/en/news-dignity-kit-8x1000.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-kit-dignita-finanziato-8x1000.html",
+   "en": "https://www.watotokenya.org/en/news-dignity-kit-8x1000.html",
+   "x-default": "https://www.watotokenya.org/news-kit-dignita-finanziato-8x1000.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Dignity Kit: funded by “8×1000 Waldensian Church” – 2023 project"
+    ],
+    "images": [
+     "../assets/img/testata-3.webp"
+    ],
+    "chars": 89
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 4555
+   }
+  ]
+ },
+ {
+  "file": "en/news-dignity-kit-project.html",
+  "slug": "news-dignity-kit-project",
+  "lang": "en",
+  "type": "news",
+  "title": "Dignity Kit Project – News | Watoto Kenya ODV",
+  "description": "Watoto Kenya Onlus Trust was founded in 2009. It is part of Watoto Kenya Onlus, an Italian NGOs founded in 2006 and operating in Kenya, Langobaia…",
+  "canonical": "https://www.watotokenya.org/en/news-dignity-kit-project.html",
+  "alternates": {
+   "en": "https://www.watotokenya.org/en/news-dignity-kit-project.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Dignity Kit Project"
+    ],
+    "images": [
+     "../assets/img/testata-3.webp"
+    ],
+    "chars": 44
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 550
+   }
+  ]
+ },
+ {
+  "file": "en/news-eventi.html",
+  "slug": "news-eventi",
+  "lang": "en",
+  "type": "page",
+  "title": "News and events | Watoto Kenya ODV",
+  "description": "News ed eventi — discover Watoto Kenya ODV’s work in Makobeni.",
+  "canonical": "https://www.watotokenya.org/en/news-eventi.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-eventi.html",
+   "en": "https://www.watotokenya.org/en/news-eventi.html",
+   "x-default": "https://www.watotokenya.org/news-eventi.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "News and events"
+    ],
+    "images": [
+     "../assets/img/testata-1.webp"
+    ],
+    "chars": 82
+   },
+   {
+    "class": "wrap news-section",
+    "id": null,
+    "headings": [
+     "Association updates",
+     "Watoto Kenya projects",
+     "Integrated feeding programme",
+     "Dignity Kit",
+     "Feeding programme recognised as a “best practice”",
+     "Sanitary Pads & Waldensian Church 8×1000 2025"
+    ],
+    "images": [
+     "../assets/img/news-0.webp",
+     "../assets/img/news-1.webp",
+     "../assets/img/news-2.webp",
+     "../assets/img/news-3.webp",
+     "../assets/img/news-4.webp",
+     "../assets/img/news-5.webp",
+     "../assets/img/news-6.webp",
+     "../assets/img/news-7.webp",
+     "../assets/img/news-8.webp",
+     "../assets/img/news-9.webp"
+    ],
+    "chars": 789
+   }
+  ]
+ },
+ {
+  "file": "en/news-feeding-integrated-program.html",
+  "slug": "news-feeding-integrated-program",
+  "lang": "en",
+  "type": "news",
+  "title": "Integrated feeding programme – News | Watoto Kenya ODV",
+  "description": "The programme supports pupils’ nutrition and aims to reduce malnutrition and school dropout, helping children continue their education.",
+  "canonical": "https://www.watotokenya.org/en/news-feeding-integrated-program.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-feeding-integrated-program.html",
+   "en": "https://www.watotokenya.org/en/news-feeding-integrated-program.html",
+   "x-default": "https://www.watotokenya.org/news-feeding-integrated-program.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Integrated feeding programme"
+    ],
+    "images": [
+     "../assets/img/testata-8.webp"
+    ],
+    "chars": 53
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-1.webp"
+    ],
+    "chars": 291
+   }
+  ]
+ },
+ {
+  "file": "en/news-gandini-school-alla-state-house.html",
+  "slug": "news-gandini-school-alla-state-house",
+  "lang": "en",
+  "type": "news",
+  "title": "Gandini School at State House – News | Watoto Kenya ODV",
+  "description": "A delegation from Gandini School was invited to learn about agricultural practices to bring back to its community.",
+  "canonical": "https://www.watotokenya.org/en/news-gandini-school-alla-state-house.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-gandini-school-alla-state-house.html",
+   "en": "https://www.watotokenya.org/en/news-gandini-school-alla-state-house.html",
+   "x-default": "https://www.watotokenya.org/news-gandini-school-alla-state-house.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Gandini School at State House"
+    ],
+    "images": [
+     "../assets/img/testata-7.webp"
+    ],
+    "chars": 54
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-5.webp"
+    ],
+    "chars": 269
+   }
+  ]
+ },
+ {
+  "file": "en/news-gandini-scuola-pilota-discipline-stem.html",
+  "slug": "news-gandini-scuola-pilota-discipline-stem",
+  "lang": "en",
+  "type": "news",
+  "title": "Gandini: a pilot school for STEM – News | Watoto Kenya ODV",
+  "description": "Gandini School was selected among the pilot schools in Kilifi County for science and technology education, involving CEMASTEA.",
+  "canonical": "https://www.watotokenya.org/en/news-gandini-scuola-pilota-discipline-stem.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-gandini-scuola-pilota-discipline-stem.html",
+   "en": "https://www.watotokenya.org/en/news-gandini-scuola-pilota-discipline-stem.html",
+   "x-default": "https://www.watotokenya.org/news-gandini-scuola-pilota-discipline-stem.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Gandini: a pilot school for STEM"
+    ],
+    "images": [
+     "../assets/img/testata-7.webp"
+    ],
+    "chars": 57
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-9.webp"
+    ],
+    "chars": 255
+   }
+  ]
+ },
+ {
+  "file": "en/news-kit-dignita.html",
+  "slug": "news-kit-dignita",
+  "lang": "en",
+  "type": "news",
+  "title": "Dignity Kit – News | Watoto Kenya ODV",
+  "description": "The Dignity Kit project promotes health, awareness and gender equity, helping girls and women manage menstruation with dignity.",
+  "canonical": "https://www.watotokenya.org/en/news-kit-dignita.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-kit-dignita.html",
+   "en": "https://www.watotokenya.org/en/news-kit-dignita.html",
+   "x-default": "https://www.watotokenya.org/news-kit-dignita.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Dignity Kit"
+    ],
+    "images": [
+     "../assets/img/testata-3.webp"
+    ],
+    "chars": 36
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-2.webp"
+    ],
+    "chars": 300
+   }
+  ]
+ },
+ {
+  "file": "en/news-progetto-alimentare-come-best-practice.html",
+  "slug": "news-progetto-alimentare-come-best-practice",
+  "lang": "en",
+  "type": "news",
+  "title": "Feeding programme recognised as a “best practice” – News | Watoto Kenya ODV",
+  "description": "In 2025 the association shared recognition received by its feeding programmes, including free school meals at Gandini and breakfast in other schools.",
+  "canonical": "https://www.watotokenya.org/en/news-progetto-alimentare-come-best-practice.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-progetto-alimentare-come-best-practice.html",
+   "en": "https://www.watotokenya.org/en/news-progetto-alimentare-come-best-practice.html",
+   "x-default": "https://www.watotokenya.org/news-progetto-alimentare-come-best-practice.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Feeding programme recognised as a “best practice”"
+    ],
+    "images": [
+     "../assets/img/testata-8.webp"
+    ],
+    "chars": 74
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-3.webp"
+    ],
+    "chars": 301
+   }
+  ]
+ },
+ {
+  "file": "en/news-salamacommunitycrafts.html",
+  "slug": "news-salamacommunitycrafts",
+  "lang": "en",
+  "type": "news",
+  "title": "Salama Community Crafts – News | Watoto Kenya ODV",
+  "description": "Salama Community Crafts is a community organisation in Kibera, Nairobi, supporting young mothers through training and services.",
+  "canonical": "https://www.watotokenya.org/en/news-salamacommunitycrafts.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-salamacommunitycrafts.html",
+   "en": "https://www.watotokenya.org/en/news-salamacommunitycrafts.html",
+   "x-default": "https://www.watotokenya.org/news-salamacommunitycrafts.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Salama Community Crafts"
+    ],
+    "images": [
+     "../assets/img/testata-4.webp"
+    ],
+    "chars": 48
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-8.webp"
+    ],
+    "chars": 255
+   }
+  ]
+ },
+ {
+  "file": "en/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html",
+  "slug": "news-sanitary-pads-8-x-1000-chiesa-valdese-2025",
+  "lang": "en",
+  "type": "news",
+  "title": "Sanitary Pads and Waldensian Church 8×1000 2025 – News | Watoto Kenya ODV",
+  "description": "This 2025 update presents activities connected to menstrual health and support from the Waldensian Church through Italy’s 8×1000 scheme.",
+  "canonical": "https://www.watotokenya.org/en/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html",
+   "en": "https://www.watotokenya.org/en/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html",
+   "x-default": "https://www.watotokenya.org/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Sanitary Pads and Waldensian Church 8×1000 2025"
+    ],
+    "images": [
+     "../assets/img/testata-3.webp"
+    ],
+    "chars": 72
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-4.webp"
+    ],
+    "chars": 243
+   }
+  ]
+ },
+ {
+  "file": "en/news-teachers-service-commision.html",
+  "slug": "news-teachers-service-commision",
+  "lang": "en",
+  "type": "news",
+  "title": "Teachers Service Commission – News | Watoto Kenya ODV",
+  "description": "This update describes the association’s educational and social activities: school meals, support for teachers and health education.",
+  "canonical": "https://www.watotokenya.org/en/news-teachers-service-commision.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-teachers-service-commision.html",
+   "en": "https://www.watotokenya.org/en/news-teachers-service-commision.html",
+   "x-default": "https://www.watotokenya.org/news-teachers-service-commision.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Teachers Service Commission"
+    ],
+    "images": [
+     "../assets/img/testata-7.webp"
+    ],
+    "chars": 52
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-6.webp"
+    ],
+    "chars": 400
+   }
+  ]
+ },
+ {
+  "file": "en/news-wkodv-projects.html",
+  "slug": "news-wkodv-projects",
+  "lang": "en",
+  "type": "news",
+  "title": "Watoto Kenya projects – News | Watoto Kenya ODV",
+  "description": "Our projects focus on education, child protection and opportunities for young people and girls. Initiatives include support for learning, care, dignity…",
+  "canonical": "https://www.watotokenya.org/en/news-wkodv-projects.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-wkodv-projects.html",
+   "en": "https://www.watotokenya.org/en/news-wkodv-projects.html",
+   "x-default": "https://www.watotokenya.org/news-wkodv-projects.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Watoto Kenya projects"
+    ],
+    "images": [
+     "../assets/img/testata-6.webp"
+    ],
+    "chars": 46
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-0.webp"
+    ],
+    "chars": 668
+   }
+  ]
+ },
+ {
+  "file": "en/organizzazione.html",
+  "slug": "organizzazione",
+  "lang": "en",
+  "type": "page",
+  "title": "Organisation | Watoto Kenya ODV",
+  "description": "Founded in 2004, Watoto Kenya supports the social and cultural development of children and young people in Makobeni, in the rural, semi-arid Langobaya…",
+  "canonical": "https://www.watotokenya.org/en/organizzazione.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/organizzazione.html",
+   "en": "https://www.watotokenya.org/en/organizzazione.html",
+   "x-default": "https://www.watotokenya.org/organizzazione.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Organisation"
+    ],
+    "images": [
+     "../assets/img/testata-7.webp"
+    ],
+    "chars": 71
+   },
+   {
+    "class": "wrap org-intro",
+    "id": null,
+    "headings": [
+     "A commitment rooted in Makobeni."
+    ],
+    "images": [],
+    "chars": 574
+   },
+   {
+    "class": "org-values",
+    "id": null,
+    "headings": [
+     "Values, vision and mission",
+     "Values",
+     "Vision",
+     "Mission"
+    ],
+    "images": [],
+    "chars": 279
+   },
+   {
+    "class": "wrap info-grid",
+    "id": null,
+    "headings": [
+     "The members’ assembly",
+     "Our structure"
+    ],
+    "images": [],
+    "chars": 252
+   },
+   {
+    "class": "about-values",
+    "id": null,
+    "headings": [
+     "Governance",
+     "Mariangela Alterini",
+     "Marzia Serrai",
+     "Francesco Moschini",
+     "George Lewa"
+    ],
+    "images": [],
+    "chars": 201
+   }
+  ]
+ },
+ {
+  "file": "en/privacy.html",
+  "slug": "privacy",
+  "lang": "en",
+  "type": "legal",
+  "title": "Privacy Policy | Watoto Kenya ODV",
+  "description": "How we handle the personal data of visitors to watotokenya.org.",
+  "canonical": "https://www.watotokenya.org/en/privacy.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/privacy.html",
+   "en": "https://www.watotokenya.org/en/privacy.html",
+   "x-default": "https://www.watotokenya.org/privacy.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Privacy Policy"
+    ],
+    "images": [
+     "../assets/img/testata-4.webp"
+    ],
+    "chars": 57
+   },
+   {
+    "class": "wrap legal",
+    "id": null,
+    "headings": [
+     "Data controller",
+     "What data we process",
+     "Purpose and legal basis",
+     "Retention",
+     "Cookies and third parties",
+     "Sharing"
+    ],
+    "images": [],
+    "chars": 1857
+   }
+  ]
+ },
+ {
+  "file": "en/progetti.html",
+  "slug": "progetti",
+  "lang": "en",
+  "type": "page",
+  "title": "Our projects | Watoto Kenya ODV",
+  "description": "Education, care and work: different pathways built together with the community.",
+  "canonical": "https://www.watotokenya.org/en/progetti.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetti.html",
+   "en": "https://www.watotokenya.org/en/progetti.html",
+   "x-default": "https://www.watotokenya.org/progetti.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Our projects"
+    ],
+    "images": [
+     "../assets/img/testata-1.webp"
+    ],
+    "chars": 20
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [
+     "Education and training",
+     "Education and training",
+     "Integrated feeding programme",
+     "Women’s empowerment – Dignity Kits",
+     "Scholarships",
+     "Alternative social care"
+    ],
+    "images": [
+     "../assets/img/hero-school.webp",
+     "../assets/img/hero-nutrition.webp",
+     "../assets/img/news-2.webp",
+     "../assets/img/project-students.webp",
+     "../assets/img/project-family.webp",
+     "../assets/img/project-sewing.webp",
+     "../assets/img/project-sewing.webp",
+     "../assets/img/news-2.webp",
+     "../assets/img/project-family.webp",
+     "../assets/img/project-sewing.webp",
+     "../assets/img/project-students.webp"
+    ],
+    "chars": 1947
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-assistenza-familiare.html",
+  "slug": "progetto-assistenza-familiare",
+  "lang": "en",
+  "type": "project",
+  "title": "Alternative family care | Watoto Kenya ODV",
+  "description": "This historical project supported families facing hardship through education, healthcare, housing and livelihood initiatives.",
+  "canonical": "https://www.watotokenya.org/en/progetto-assistenza-familiare.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-assistenza-familiare.html",
+   "en": "https://www.watotokenya.org/en/progetto-assistenza-familiare.html",
+   "x-default": "https://www.watotokenya.org/progetto-assistenza-familiare.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Alternative family care"
+    ],
+    "images": [
+     "../assets/img/testata-6.webp"
+    ],
+    "chars": 38
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/project-family.webp"
+    ],
+    "chars": 226
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-assistenza-sociale.html",
+  "slug": "progetto-assistenza-sociale",
+  "lang": "en",
+  "type": "project",
+  "title": "Alternative social care | Watoto Kenya ODV",
+  "description": "The association supports vulnerable children and families, encouraging care within families and the community.",
+  "canonical": "https://www.watotokenya.org/en/progetto-assistenza-sociale.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-assistenza-sociale.html",
+   "en": "https://www.watotokenya.org/en/progetto-assistenza-sociale.html",
+   "x-default": "https://www.watotokenya.org/progetto-assistenza-sociale.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Alternative social care"
+    ],
+    "images": [
+     "../assets/img/testata-6.webp"
+    ],
+    "chars": 35
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [
+     "Explore related projects",
+     "Alternative family care"
+    ],
+    "images": [
+     "../assets/img/project-family.webp",
+     "../assets/img/project-family.webp"
+    ],
+    "chars": 313
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-borse-studio.html",
+  "slug": "progetto-borse-studio",
+  "lang": "en",
+  "type": "project",
+  "title": "Scholarships | Watoto Kenya ODV",
+  "description": "The scholarship programme has supported education and training, including for students with disabilities and young people in family care.",
+  "canonical": "https://www.watotokenya.org/en/progetto-borse-studio.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-borse-studio.html",
+   "en": "https://www.watotokenya.org/en/progetto-borse-studio.html",
+   "x-default": "https://www.watotokenya.org/progetto-borse-studio.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Scholarships"
+    ],
+    "images": [
+     "../assets/img/testata-7.webp"
+    ],
+    "chars": 24
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/project-students.webp"
+    ],
+    "chars": 151
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-convitto.html",
+  "slug": "progetto-convitto",
+  "lang": "en",
+  "type": "project",
+  "title": "Boarding school | Watoto Kenya ODV",
+  "description": "A historical project connected to the educational pathways of young people supported by the association.",
+  "canonical": "https://www.watotokenya.org/en/progetto-convitto.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-convitto.html",
+   "en": "https://www.watotokenya.org/en/progetto-convitto.html",
+   "x-default": "https://www.watotokenya.org/progetto-convitto.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Boarding school"
+    ],
+    "images": [
+     "../assets/img/testata-6.webp"
+    ],
+    "chars": 30
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/project-students.webp"
+    ],
+    "chars": 205
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-dignity-kids.html",
+  "slug": "progetto-dignity-kids",
+  "lang": "en",
+  "type": "project",
+  "title": "Dignity Kids Project | Watoto Kenya ODV",
+  "description": "A project presented by the association in its work and economic development programme.",
+  "canonical": "https://www.watotokenya.org/en/progetto-dignity-kids.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-dignity-kids.html",
+   "en": "https://www.watotokenya.org/en/progetto-dignity-kids.html",
+   "x-default": "https://www.watotokenya.org/progetto-dignity-kids.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Dignity Kids Project"
+    ],
+    "images": [
+     "../assets/img/testata-3.webp"
+    ],
+    "chars": 32
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-2.webp"
+    ],
+    "chars": 134
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-educazione-formazione.html",
+  "slug": "progetto-educazione-formazione",
+  "lang": "en",
+  "type": "project",
+  "title": "Education and training | Watoto Kenya ODV",
+  "description": "The right to education opens opportunities for future generations. We support learning and training alongside schools and the community.",
+  "canonical": "https://www.watotokenya.org/en/progetto-educazione-formazione.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-educazione-formazione.html",
+   "en": "https://www.watotokenya.org/en/progetto-educazione-formazione.html",
+   "x-default": "https://www.watotokenya.org/progetto-educazione-formazione.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Education and training"
+    ],
+    "images": [
+     "../assets/img/testata-7.webp"
+    ],
+    "chars": 34
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [
+     "Explore related projects",
+     "Integrated feeding programme",
+     "Women’s empowerment – Dignity Kits",
+     "Scholarships"
+    ],
+    "images": [
+     "../assets/img/hero-school.webp",
+     "../assets/img/hero-nutrition.webp",
+     "../assets/img/news-2.webp",
+     "../assets/img/project-students.webp"
+    ],
+    "chars": 720
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-kit-dignita.html",
+  "slug": "progetto-kit-dignita",
+  "lang": "en",
+  "type": "project",
+  "title": "Women’s empowerment – Dignity Kits | Watoto Kenya ODV",
+  "description": "Kits made by the social tailoring workshop combine reusable products with menstrual health information. The project supports dignity, health and access…",
+  "canonical": "https://www.watotokenya.org/en/progetto-kit-dignita.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-kit-dignita.html",
+   "en": "https://www.watotokenya.org/en/progetto-kit-dignita.html",
+   "x-default": "https://www.watotokenya.org/progetto-kit-dignita.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Women’s empowerment – Dignity Kits"
+    ],
+    "images": [
+     "../assets/img/testata-3.webp"
+    ],
+    "chars": 46
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/news-2.webp"
+    ],
+    "chars": 179
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-lavoro-sviluppo.html",
+  "slug": "progetto-lavoro-sviluppo",
+  "lang": "en",
+  "type": "project",
+  "title": "Work and economic development | Watoto Kenya ODV",
+  "description": "Training and economic initiatives can create employment and strengthen the independence of individuals and families.",
+  "canonical": "https://www.watotokenya.org/en/progetto-lavoro-sviluppo.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-lavoro-sviluppo.html",
+   "en": "https://www.watotokenya.org/en/progetto-lavoro-sviluppo.html",
+   "x-default": "https://www.watotokenya.org/progetto-lavoro-sviluppo.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Work and economic development"
+    ],
+    "images": [
+     "../assets/img/testata-2.webp"
+    ],
+    "chars": 41
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [
+     "Explore related projects",
+     "Watoto Kenya Trust tailoring",
+     "Dignity Kids Project"
+    ],
+    "images": [
+     "../assets/img/project-sewing.webp",
+     "../assets/img/project-sewing.webp",
+     "../assets/img/news-2.webp"
+    ],
+    "chars": 439
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-microprogetti.html",
+  "slug": "progetto-microprogetti",
+  "lang": "en",
+  "type": "project",
+  "title": "Microprojects and microenterprises | Watoto Kenya ODV",
+  "description": "A historical project devoted to training, economic initiatives and work opportunities in the community.",
+  "canonical": "https://www.watotokenya.org/en/progetto-microprogetti.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-microprogetti.html",
+   "en": "https://www.watotokenya.org/en/progetto-microprogetti.html",
+   "x-default": "https://www.watotokenya.org/progetto-microprogetti.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Microprojects and microenterprises"
+    ],
+    "images": [
+     "../assets/img/testata-2.webp"
+    ],
+    "chars": 49
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/project-sewing.webp"
+    ],
+    "chars": 204
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-programma-alimentare.html",
+  "slug": "progetto-programma-alimentare",
+  "lang": "en",
+  "type": "project",
+  "title": "Integrated feeding programme | Watoto Kenya ODV",
+  "description": "The programme supports school meals and breakfasts, contributing to children’s wellbeing and their continued education.",
+  "canonical": "https://www.watotokenya.org/en/progetto-programma-alimentare.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-programma-alimentare.html",
+   "en": "https://www.watotokenya.org/en/progetto-programma-alimentare.html",
+   "x-default": "https://www.watotokenya.org/progetto-programma-alimentare.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Integrated feeding programme"
+    ],
+    "images": [
+     "../assets/img/testata-8.webp"
+    ],
+    "chars": 40
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/hero-nutrition.webp"
+    ],
+    "chars": 133
+   }
+  ]
+ },
+ {
+  "file": "en/progetto-sartoria.html",
+  "slug": "progetto-sartoria",
+  "lang": "en",
+  "type": "project",
+  "title": "Watoto Kenya Trust tailoring | Watoto Kenya ODV",
+  "description": "The tailoring workshop makes garments and Dignity Kits, connecting local skills, health and employment opportunities.",
+  "canonical": "https://www.watotokenya.org/en/progetto-sartoria.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-sartoria.html",
+   "en": "https://www.watotokenya.org/en/progetto-sartoria.html",
+   "x-default": "https://www.watotokenya.org/progetto-sartoria.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Watoto Kenya Trust tailoring"
+    ],
+    "images": [
+     "../assets/img/testata-4.webp"
+    ],
+    "chars": 40
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "../assets/img/project-sewing.webp"
+    ],
+    "chars": 131
+   }
+  ]
+ },
+ {
+  "file": "en/sostienici.html",
+  "slug": "sostienici",
+  "lang": "en",
+  "type": "page",
+  "title": "The future grows with you. | Watoto Kenya ODV",
+  "description": "Your support helps children and young people in Makobeni access education, care and opportunities.",
+  "canonical": "https://www.watotokenya.org/en/sostienici.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/sostienici.html",
+   "en": "https://www.watotokenya.org/en/sostienici.html",
+   "x-default": "https://www.watotokenya.org/sostienici.html"
+  },
+  "sections": [
+   {
+    "class": "donation-hero",
+    "id": null,
+    "headings": [
+     "The future grows with you."
+    ],
+    "images": [
+     "../assets/img/testata-1.webp"
+    ],
+    "chars": 159
+   },
+   {
+    "class": "wrap donation-content",
+    "id": null,
+    "headings": [
+     "A gesture that opens possibilities.",
+     "Three ways to help",
+     "By card or PayPal",
+     "Donation details",
+     "Need more information?"
+    ],
+    "images": [],
+    "chars": 1378
+   },
+   {
+    "class": "cinque",
+    "id": "cinque-per-mille",
+    "headings": [
+     "Your 5×1000 costs you nothing."
+    ],
+    "images": [],
+    "chars": 343
+   }
+  ]
+ },
+ {
+  "file": "en/vision-mission.html",
+  "slug": "vision-mission",
+  "lang": "en",
+  "type": "page",
+  "title": "Vision and Mission | Watoto Kenya ODV",
+  "description": "New generations able to build their dignity and choose their future through knowledge.",
+  "canonical": "https://www.watotokenya.org/en/vision-mission.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/vision-mission.html",
+   "en": "https://www.watotokenya.org/en/vision-mission.html",
+   "x-default": "https://www.watotokenya.org/vision-mission.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Vision and Mission"
+    ],
+    "images": [
+     "../assets/img/testata-2.webp"
+    ],
+    "chars": 76
+   },
+   {
+    "class": "wrap info-grid",
+    "id": null,
+    "headings": [
+     "Our vision",
+     "Our mission"
+    ],
+    "images": [],
+    "chars": 227
+   },
+   {
+    "class": "about-values",
+    "id": null,
+    "headings": [
+     "From values to action.",
+     "Educate",
+     "Care",
+     "Create opportunities"
+    ],
+    "images": [],
+    "chars": 195
+   }
+  ]
+ },
+ {
+  "file": "index.html",
+  "slug": "index",
+  "lang": "it",
+  "type": "home",
+  "title": "Watoto Kenya ODV — Insieme per il futuro",
+  "description": "Watoto Kenya ODV sostiene istruzione, assistenza e opportunità per bambini e giovani di Makobeni, in Kenya.",
+  "canonical": "https://www.watotokenya.org/",
+  "alternates": {
+   "it": "https://www.watotokenya.org/",
+   "en": "https://www.watotokenya.org/en/",
+   "x-default": "https://www.watotokenya.org/"
+  },
+  "sections": [
+   {
+    "class": "hero",
+    "id": null,
+    "headings": [
+     "Il futurocomincia daun’opportunità."
+    ],
+    "images": [
+     "assets/img/hero-home-1.webp",
+     "assets/img/hero-home-2.webp",
+     "assets/img/hero-home-3.webp",
+     "assets/img/hero-home-4.webp",
+     "assets/img/hero-home-5.webp"
+    ],
+    "chars": 165
+   },
+   {
+    "class": "intro wrap",
+    "id": "chi",
+    "headings": [
+     "Makobeni,una comunitàche costruisceil proprio futuro."
+    ],
+    "images": [],
+    "chars": 273
+   },
+   {
+    "class": "stats",
+    "id": "numeri",
+    "headings": [],
+    "images": [],
+    "chars": 240
+   },
+   {
+    "class": "section wrap",
+    "id": "progetti",
+    "headings": [
+     "I nostri progetti",
+     "Istruzione",
+     "Alimentazione",
+     "Autonomia"
+    ],
+    "images": [
+     "assets/img/card-istruzione.webp",
+     "assets/img/card-alimentazione.webp"
+    ],
+    "chars": 305
+   },
+   {
+    "class": "voices",
+    "id": "voci",
+    "headings": [
+     "Persone, gesti, collaborazioni."
+    ],
+    "images": [],
+    "chars": 704
+   },
+   {
+    "class": "impact",
+    "id": "impatto",
+    "headings": [
+     "Un futuro costruito insieme."
+    ],
+    "images": [],
+    "chars": 219
+   },
+   {
+    "class": "support",
+    "id": "sostieni",
+    "headings": [
+     "Costruiamo opportunità, insieme."
+    ],
+    "images": [
+     "assets/img/support-home.webp"
+    ],
+    "chars": 141
+   },
+   {
+    "class": "cinque",
+    "id": "cinque-per-mille",
+    "headings": [
+     "Il tuo 5×1000 non ti costa nulla."
+    ],
+    "images": [],
+    "chars": 344
+   }
+  ]
+ },
+ {
+  "file": "news-bilancio-2023-wko.html",
+  "slug": "news-bilancio-2023-wko",
+  "lang": "it",
+  "type": "news",
+  "title": "Bilancio 2023 WKO – News | Watoto Kenya ODV",
+  "description": "L’associazione ha pubblicato il bilancio relativo al 2023, a disposizione di soci e sostenitori.",
+  "canonical": "https://www.watotokenya.org/news-bilancio-2023-wko.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-bilancio-2023-wko.html",
+   "en": "https://www.watotokenya.org/en/news-bilancio-2023-wko.html",
+   "x-default": "https://www.watotokenya.org/news-bilancio-2023-wko.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Bilancio 2023 WKO"
+    ],
+    "images": [
+     "assets/img/testata-6.webp"
+    ],
+    "chars": 41
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-7.webp"
+    ],
+    "chars": 279
+   }
+  ]
+ },
+ {
+  "file": "news-casa-famiglia-scuola-college.html",
+  "slug": "news-casa-famiglia-scuola-college",
+  "lang": "it",
+  "type": "news",
+  "title": "Watoto Kenya: dalla casa famiglia alla scuola modello College – News | Watoto Kenya ODV",
+  "description": "La “Casa Famiglia” di Watoto Onlus a Langobaya diventerà una “boarding” school con dormitorio per gli alunni",
+  "canonical": "https://www.watotokenya.org/news-casa-famiglia-scuola-college.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-casa-famiglia-scuola-college.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Watoto Kenya: dalla casa famiglia alla scuola modello College"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 85
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 3502
+   }
+  ]
+ },
+ {
+  "file": "news-colazione-per-tutti.html",
+  "slug": "news-colazione-per-tutti",
+  "lang": "it",
+  "type": "news",
+  "title": "Colazione per tutti – News | Watoto Kenya ODV",
+  "description": "Dietro segnalazione del responsabile del Dipartimento di Educazione della provincia, con l’anno scolastico 2023 abbiamo integrato il Programma…",
+  "canonical": "https://www.watotokenya.org/news-colazione-per-tutti.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-colazione-per-tutti.html",
+   "en": "https://www.watotokenya.org/en/news-breakfast-for-everyone.html",
+   "x-default": "https://www.watotokenya.org/news-colazione-per-tutti.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Colazione per tutti"
+    ],
+    "images": [
+     "assets/img/testata-8.webp"
+    ],
+    "chars": 43
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 1236
+   }
+  ]
+ },
+ {
+  "file": "news-due-realta-italiane-unite.html",
+  "slug": "news-due-realta-italiane-unite",
+  "lang": "it",
+  "type": "news",
+  "title": "Due realtà italiane unite per aiutare davvero – News | Watoto Kenya ODV",
+  "description": "L’unione fa il bene, proprio come l’alimentazione per i bambini. Quando due realtà italiane molto note in Kenya per i loro progetti di solidarietà mai…",
+  "canonical": "https://www.watotokenya.org/news-due-realta-italiane-unite.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-due-realta-italiane-unite.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Due realtà italiane unite per aiutare davvero"
+    ],
+    "images": [
+     "assets/img/testata-6.webp"
+    ],
+    "chars": 69
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 4500
+   }
+  ]
+ },
+ {
+  "file": "news-eventi.html",
+  "slug": "news-eventi",
+  "lang": "it",
+  "type": "page",
+  "title": "News ed eventi | Watoto Kenya ODV",
+  "description": "News ed eventi — scopri le attività di Watoto Kenya ODV a Makobeni.",
+  "canonical": "https://www.watotokenya.org/news-eventi.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-eventi.html",
+   "en": "https://www.watotokenya.org/en/news-eventi.html",
+   "x-default": "https://www.watotokenya.org/news-eventi.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "News ed eventi"
+    ],
+    "images": [
+     "assets/img/testata-1.webp"
+    ],
+    "chars": 81
+   },
+   {
+    "class": "wrap news-section",
+    "id": null,
+    "headings": [
+     "Dall’associazione",
+     "I progetti di Watoto Kenya",
+     "Programma alimentare integrato",
+     "Kit Dignità",
+     "Il progetto alimentare come “best practice”",
+     "Sanitary Pads e 8×1000 Chiesa Valdese 2025"
+    ],
+    "images": [
+     "assets/img/news-0.webp",
+     "assets/img/news-1.webp",
+     "assets/img/news-2.webp",
+     "assets/img/news-3.webp",
+     "assets/img/news-4.webp",
+     "assets/img/news-5.webp",
+     "assets/img/news-6.webp",
+     "assets/img/news-7.webp",
+     "assets/img/news-8.webp",
+     "assets/img/news-9.webp"
+    ],
+    "chars": 1526
+   }
+  ]
+ },
+ {
+  "file": "news-fabio-marcato-premio-fotografia-parigi.html",
+  "slug": "news-fabio-marcato-premio-fotografia-parigi",
+  "lang": "it",
+  "type": "news",
+  "title": "Fabio Marcato, Premio della Fotografia di Parigi – News | Watoto Kenya ODV",
+  "description": "Il fotografo Fabio Marcato ha vinto il premio della fotografia di Parigi STATE OF THE WORLD 2020 con le foto scattate alla Gandini Primary School,…",
+  "canonical": "https://www.watotokenya.org/news-fabio-marcato-premio-fotografia-parigi.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-fabio-marcato-premio-fotografia-parigi.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Fabio Marcato, Premio della Fotografia di Parigi"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 72
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 1118
+   }
+  ]
+ },
+ {
+  "file": "news-feeding-integrated-program.html",
+  "slug": "news-feeding-integrated-program",
+  "lang": "it",
+  "type": "news",
+  "title": "Programma alimentare integrato – News | Watoto Kenya ODV",
+  "description": "Il programma sostiene l’alimentazione degli studenti e punta a ridurre malnutrizione e abbandono scolastico, contribuendo al percorso educativo.",
+  "canonical": "https://www.watotokenya.org/news-feeding-integrated-program.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-feeding-integrated-program.html",
+   "en": "https://www.watotokenya.org/en/news-feeding-integrated-program.html",
+   "x-default": "https://www.watotokenya.org/news-feeding-integrated-program.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Programma alimentare integrato"
+    ],
+    "images": [
+     "assets/img/testata-8.webp"
+    ],
+    "chars": 54
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-1.webp"
+    ],
+    "chars": 511
+   }
+  ]
+ },
+ {
+  "file": "news-gandini-school-alla-state-house.html",
+  "slug": "news-gandini-school-alla-state-house",
+  "lang": "it",
+  "type": "news",
+  "title": "Gandini School alla State House – News | Watoto Kenya ODV",
+  "description": "Una delegazione della scuola Gandini è stata invitata a conoscere pratiche agricole da osservare e portare nella propria comunità.",
+  "canonical": "https://www.watotokenya.org/news-gandini-school-alla-state-house.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-gandini-school-alla-state-house.html",
+   "en": "https://www.watotokenya.org/en/news-gandini-school-alla-state-house.html",
+   "x-default": "https://www.watotokenya.org/news-gandini-school-alla-state-house.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Gandini School alla State House"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 55
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-5.webp"
+    ],
+    "chars": 675
+   }
+  ]
+ },
+ {
+  "file": "news-gandini-scuola-pilota-discipline-stem.html",
+  "slug": "news-gandini-scuola-pilota-discipline-stem",
+  "lang": "it",
+  "type": "news",
+  "title": "Gandini: scuola pilota per le discipline STEM – News | Watoto Kenya ODV",
+  "description": "La scuola Gandini è stata scelta tra le scuole pilota della contea di Kilifi per le discipline scientifiche e tecnologiche, con il coinvolgimento di…",
+  "canonical": "https://www.watotokenya.org/news-gandini-scuola-pilota-discipline-stem.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-gandini-scuola-pilota-discipline-stem.html",
+   "en": "https://www.watotokenya.org/en/news-gandini-scuola-pilota-discipline-stem.html",
+   "x-default": "https://www.watotokenya.org/news-gandini-scuola-pilota-discipline-stem.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Gandini: scuola pilota per le discipline STEM"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 69
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-9.webp"
+    ],
+    "chars": 935
+   }
+  ]
+ },
+ {
+  "file": "news-kit-dignita-assorbenti-lavabili.html",
+  "slug": "news-kit-dignita-assorbenti-lavabili",
+  "lang": "it",
+  "type": "news",
+  "title": "Kit Dignità, assorbenti lavabili da Watoto Kenya per studentesse – News | Watoto Kenya ODV",
+  "description": "Si chiama “Kit Dignità” ed è un’iniziativa di Watoto Kenya Onlus per le ragazze delle scuole dell’entroterra malindino.",
+  "canonical": "https://www.watotokenya.org/news-kit-dignita-assorbenti-lavabili.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-kit-dignita-assorbenti-lavabili.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Kit Dignità, assorbenti lavabili da Watoto Kenya per studentesse"
+    ],
+    "images": [
+     "assets/img/testata-3.webp"
+    ],
+    "chars": 88
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 4519
+   }
+  ]
+ },
+ {
+  "file": "news-kit-dignita-finanziato-8x1000.html",
+  "slug": "news-kit-dignita-finanziato-8x1000",
+  "lang": "it",
+  "type": "news",
+  "title": "Kit Dignità: finanziato da “8×1000 Chiesa Valdese” – progetto 2023 – News | Watoto Kenya ODV",
+  "description": "Beneficiari Diretti: 800 ragazze ricevono kit dignità 1000 ragazze tra gli 11 e i 18 anni sensibilizzate e informate 1000 ragazzi tra gli 11 e i 18…",
+  "canonical": "https://www.watotokenya.org/news-kit-dignita-finanziato-8x1000.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-kit-dignita-finanziato-8x1000.html",
+   "en": "https://www.watotokenya.org/en/news-dignity-kit-8x1000.html",
+   "x-default": "https://www.watotokenya.org/news-kit-dignita-finanziato-8x1000.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Kit Dignità: finanziato da “8×1000 Chiesa Valdese” – progetto 2023"
+    ],
+    "images": [
+     "assets/img/testata-3.webp"
+    ],
+    "chars": 90
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 4769
+   }
+  ]
+ },
+ {
+  "file": "news-kit-dignita.html",
+  "slug": "news-kit-dignita",
+  "lang": "it",
+  "type": "news",
+  "title": "Kit Dignità – News | Watoto Kenya ODV",
+  "description": "Il progetto Kit Dignità promuove salute, consapevolezza ed equità di genere, aiutando ragazze e donne ad affrontare il ciclo mestruale con dignità.",
+  "canonical": "https://www.watotokenya.org/news-kit-dignita.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-kit-dignita.html",
+   "en": "https://www.watotokenya.org/en/news-kit-dignita.html",
+   "x-default": "https://www.watotokenya.org/news-kit-dignita.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Kit Dignità"
+    ],
+    "images": [
+     "assets/img/testata-3.webp"
+    ],
+    "chars": 35
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-2.webp"
+    ],
+    "chars": 766
+   }
+  ]
+ },
+ {
+  "file": "news-kulisha-kwa-maisha.html",
+  "slug": "news-kulisha-kwa-maisha",
+  "lang": "it",
+  "type": "news",
+  "title": "Kulisha kwa maisha – Nutrimento per la vita – News | Watoto Kenya ODV",
+  "description": "Lunedì 9 dicembre 2019 con l’inizio del corso di formazione indirizzato agli insegnanti della scuola pubblica primaria Gandini (contea di Kilifi) è…",
+  "canonical": "https://www.watotokenya.org/news-kulisha-kwa-maisha.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-kulisha-kwa-maisha.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Kulisha kwa maisha – Nutrimento per la vita"
+    ],
+    "images": [
+     "assets/img/testata-8.webp"
+    ],
+    "chars": 67
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 909
+   }
+  ]
+ },
+ {
+  "file": "news-martina-e-savio-sposi.html",
+  "slug": "news-martina-e-savio-sposi",
+  "lang": "it",
+  "type": "news",
+  "title": "Martina e Savio sposi! – News | Watoto Kenya ODV",
+  "description": "IN UN GIORNO IMPORTANTE E SIGNIFICATIVO HANNO PENSATO DI DONARE. INIZIARE UNA NUOVA VITA, DONANDO VITA!! GRAZIE DI CUORE!",
+  "canonical": "https://www.watotokenya.org/news-martina-e-savio-sposi.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-martina-e-savio-sposi.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Martina e Savio sposi!"
+    ],
+    "images": [
+     "assets/img/testata-4.webp"
+    ],
+    "chars": 46
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 175
+   }
+  ]
+ },
+ {
+  "file": "news-ong-italiane-una-meta-comune.html",
+  "slug": "news-ong-italiane-una-meta-comune",
+  "lang": "it",
+  "type": "news",
+  "title": "Watoto Kenya assieme alle altre ONG italiane per una meta comune – News | Watoto Kenya ODV",
+  "description": "KENYA – UNA META COMUNE PER GLI ATTORI DEL SISTEMA COOPERAZIONE, LE ONG ITALIANE SI RACCONTANO",
+  "canonical": "https://www.watotokenya.org/news-ong-italiane-una-meta-comune.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-ong-italiane-una-meta-comune.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Watoto Kenya assieme alle altre ONG italiane per una meta comune"
+    ],
+    "images": [
+     "assets/img/testata-6.webp"
+    ],
+    "chars": 88
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 2306
+   }
+  ]
+ },
+ {
+  "file": "news-progetto-alimentare-come-best-practice.html",
+  "slug": "news-progetto-alimentare-come-best-practice",
+  "lang": "it",
+  "type": "news",
+  "title": "Il progetto alimentare come “best practice” – News | Watoto Kenya ODV",
+  "description": "Nel 2025 l’associazione ha condiviso il riconoscimento ricevuto dai propri programmi alimentari, tra cui la mensa gratuita della scuola Gandini e la…",
+  "canonical": "https://www.watotokenya.org/news-progetto-alimentare-come-best-practice.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-progetto-alimentare-come-best-practice.html",
+   "en": "https://www.watotokenya.org/en/news-progetto-alimentare-come-best-practice.html",
+   "x-default": "https://www.watotokenya.org/news-progetto-alimentare-come-best-practice.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Il progetto alimentare come “best practice”"
+    ],
+    "images": [
+     "assets/img/testata-8.webp"
+    ],
+    "chars": 67
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-3.webp"
+    ],
+    "chars": 873
+   }
+  ]
+ },
+ {
+  "file": "news-risposta-emergenza-covid-19.html",
+  "slug": "news-risposta-emergenza-covid-19",
+  "lang": "it",
+  "type": "news",
+  "title": "Risposta all’emergenza Covid-19 – News | Watoto Kenya ODV",
+  "description": "Tra Aprile e Dicembre Watoto Kenya ha continuato a supportare la comunità del distretto Langobaya sia al fine di mitigare l’impatto economico causato…",
+  "canonical": "https://www.watotokenya.org/news-risposta-emergenza-covid-19.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-risposta-emergenza-covid-19.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Risposta all’emergenza Covid-19"
+    ],
+    "images": [
+     "assets/img/testata-8.webp"
+    ],
+    "chars": 55
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 734
+   }
+  ]
+ },
+ {
+  "file": "news-salamacommunitycrafts.html",
+  "slug": "news-salamacommunitycrafts",
+  "lang": "it",
+  "type": "news",
+  "title": "Salama Community Crafts – News | Watoto Kenya ODV",
+  "description": "Salama Community Crafts è una realtà comunitaria di Kibera, a Nairobi, che sostiene giovani madri con formazione e servizi.",
+  "canonical": "https://www.watotokenya.org/news-salamacommunitycrafts.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-salamacommunitycrafts.html",
+   "en": "https://www.watotokenya.org/en/news-salamacommunitycrafts.html",
+   "x-default": "https://www.watotokenya.org/news-salamacommunitycrafts.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Salama Community Crafts"
+    ],
+    "images": [
+     "assets/img/testata-4.webp"
+    ],
+    "chars": 47
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-8.webp"
+    ],
+    "chars": 421
+   }
+  ]
+ },
+ {
+  "file": "news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html",
+  "slug": "news-sanitary-pads-8-x-1000-chiesa-valdese-2025",
+  "lang": "it",
+  "type": "news",
+  "title": "Sanitary Pads e 8×1000 Chiesa Valdese 2025 – News | Watoto Kenya ODV",
+  "description": "La notizia del 2025 presenta le attività legate alla salute mestruale e al sostegno della Chiesa Valdese attraverso l’8×1000.",
+  "canonical": "https://www.watotokenya.org/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html",
+   "en": "https://www.watotokenya.org/en/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html",
+   "x-default": "https://www.watotokenya.org/news-sanitary-pads-8-x-1000-chiesa-valdese-2025.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Sanitary Pads e 8×1000 Chiesa Valdese 2025"
+    ],
+    "images": [
+     "assets/img/testata-3.webp"
+    ],
+    "chars": 66
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-4.webp"
+    ],
+    "chars": 256
+   }
+  ]
+ },
+ {
+  "file": "news-scuole-chiuse-programma-alimentare.html",
+  "slug": "news-scuole-chiuse-programma-alimentare",
+  "lang": "it",
+  "type": "news",
+  "title": "Scuole chiuse: il programma alimentare non si ferma – News | Watoto Kenya ODV",
+  "description": "Scuole Chiuse – il programma alimentare non si ferma",
+  "canonical": "https://www.watotokenya.org/news-scuole-chiuse-programma-alimentare.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-scuole-chiuse-programma-alimentare.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Scuole chiuse: il programma alimentare non si ferma"
+    ],
+    "images": [
+     "assets/img/testata-8.webp"
+    ],
+    "chars": 75
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 1488
+   }
+  ]
+ },
+ {
+  "file": "news-teachers-service-commision.html",
+  "slug": "news-teachers-service-commision",
+  "lang": "it",
+  "type": "news",
+  "title": "Teachers Service Commission – News | Watoto Kenya ODV",
+  "description": "Questo aggiornamento racconta le attività socioeducative sostenute dall’associazione: mensa scolastica, sostegno agli insegnanti ed educazione alla salute.",
+  "canonical": "https://www.watotokenya.org/news-teachers-service-commision.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-teachers-service-commision.html",
+   "en": "https://www.watotokenya.org/en/news-teachers-service-commision.html",
+   "x-default": "https://www.watotokenya.org/news-teachers-service-commision.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Teachers Service Commission"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 51
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-6.webp"
+    ],
+    "chars": 438
+   }
+  ]
+ },
+ {
+  "file": "news-tree-planting-gandini.html",
+  "slug": "news-tree-planting-gandini",
+  "lang": "it",
+  "type": "news",
+  "title": "Tree planting alla Gandini Primary School – News | Watoto Kenya ODV",
+  "description": "Watoto Kenya partecipa al l ’ iniziativa supportando la scuola primaria Gandini, assicurandosi che ognuno dei 650 alunni abbia la sua piantina da…",
+  "canonical": "https://www.watotokenya.org/news-tree-planting-gandini.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-tree-planting-gandini.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Tree planting alla Gandini Primary School"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 65
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [],
+    "chars": 255
+   }
+  ]
+ },
+ {
+  "file": "news-wkodv-projects.html",
+  "slug": "news-wkodv-projects",
+  "lang": "it",
+  "type": "news",
+  "title": "I progetti di Watoto Kenya – News | Watoto Kenya ODV",
+  "description": "I progetti dell’associazione mettono al centro istruzione, protezione dei bambini e opportunità per giovani e ragazze. Le iniziative comprendono…",
+  "canonical": "https://www.watotokenya.org/news-wkodv-projects.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/news-wkodv-projects.html",
+   "en": "https://www.watotokenya.org/en/news-wkodv-projects.html",
+   "x-default": "https://www.watotokenya.org/news-wkodv-projects.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "I progetti di Watoto Kenya"
+    ],
+    "images": [
+     "assets/img/testata-6.webp"
+    ],
+    "chars": 50
+   },
+   {
+    "class": "wrap article-layout",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-0.webp"
+    ],
+    "chars": 384
+   }
+  ]
+ },
+ {
+  "file": "organizzazione.html",
+  "slug": "organizzazione",
+  "lang": "it",
+  "type": "page",
+  "title": "Organizzazione | Watoto Kenya ODV",
+  "description": "Fondata nel 2004, Watoto Kenya sostiene lo sviluppo sociale e culturale di bambini e ragazzi di Makobeni, nell’area rurale e semi-arida di Langobaya,…",
+  "canonical": "https://www.watotokenya.org/organizzazione.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/organizzazione.html",
+   "en": "https://www.watotokenya.org/en/organizzazione.html",
+   "x-default": "https://www.watotokenya.org/organizzazione.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Organizzazione"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 75
+   },
+   {
+    "class": "wrap org-intro",
+    "id": null,
+    "headings": [
+     "Un impegno nato a Makobeni."
+    ],
+    "images": [],
+    "chars": 626
+   },
+   {
+    "class": "org-values",
+    "id": null,
+    "headings": [
+     "Valori, visione e missione",
+     "Valori",
+     "Visione",
+     "Missione"
+    ],
+    "images": [],
+    "chars": 320
+   },
+   {
+    "class": "wrap info-grid",
+    "id": null,
+    "headings": [
+     "L’assemblea dei soci",
+     "La struttura"
+    ],
+    "images": [],
+    "chars": 276
+   },
+   {
+    "class": "about-values",
+    "id": null,
+    "headings": [
+     "La governance",
+     "Mariangela Alterini",
+     "Marzia Serrai",
+     "Francesco Moschini",
+     "George Lewa"
+    ],
+    "images": [],
+    "chars": 199
+   }
+  ]
+ },
+ {
+  "file": "privacy.html",
+  "slug": "privacy",
+  "lang": "it",
+  "type": "legal",
+  "title": "Privacy Policy | Watoto Kenya ODV",
+  "description": "Come trattiamo i dati personali di chi visita il sito watotokenya.org.",
+  "canonical": "https://www.watotokenya.org/privacy.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/privacy.html",
+   "en": "https://www.watotokenya.org/en/privacy.html",
+   "x-default": "https://www.watotokenya.org/privacy.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Privacy Policy"
+    ],
+    "images": [
+     "assets/img/testata-4.webp"
+    ],
+    "chars": 76
+   },
+   {
+    "class": "wrap legal",
+    "id": null,
+    "headings": [
+     "Titolare del trattamento",
+     "Quali dati trattiamo",
+     "Per quale scopo e su quale base",
+     "Per quanto tempo",
+     "Cookie e servizi di terze parti",
+     "Comunicazione dei dati"
+    ],
+    "images": [],
+    "chars": 2137
+   }
+  ]
+ },
+ {
+  "file": "progetti.html",
+  "slug": "progetti",
+  "lang": "it",
+  "type": "page",
+  "title": "I nostri progetti | Watoto Kenya ODV",
+  "description": "Istruzione, assistenza e lavoro: percorsi diversi, costruiti insieme alla comunità.",
+  "canonical": "https://www.watotokenya.org/progetti.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetti.html",
+   "en": "https://www.watotokenya.org/en/progetti.html",
+   "x-default": "https://www.watotokenya.org/progetti.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "I nostri progetti"
+    ],
+    "images": [
+     "assets/img/testata-1.webp"
+    ],
+    "chars": 25
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [
+     "Educazione e formazione",
+     "Educazione e formazione",
+     "Programma alimentare integrato",
+     "Emancipazione femminile – Kit Dignità",
+     "Borse di studio",
+     "Assistenza sociale alternativa"
+    ],
+    "images": [
+     "assets/img/hero-school.webp",
+     "assets/img/hero-nutrition.webp",
+     "assets/img/news-2.webp",
+     "assets/img/project-students.webp",
+     "assets/img/project-family.webp",
+     "assets/img/project-sewing.webp",
+     "assets/img/project-sewing.webp",
+     "assets/img/news-2.webp",
+     "assets/img/project-family.webp",
+     "assets/img/project-sewing.webp",
+     "assets/img/project-students.webp"
+    ],
+    "chars": 2152
+   }
+  ]
+ },
+ {
+  "file": "progetto-assistenza-familiare.html",
+  "slug": "progetto-assistenza-familiare",
+  "lang": "it",
+  "type": "project",
+  "title": "Assistenza familiare alternativa | Watoto Kenya ODV",
+  "description": "Il progetto storico prevedeva sostegno alle famiglie in difficoltà, con interventi legati a istruzione, salute, abitazione e attività di sostentamento.",
+  "canonical": "https://www.watotokenya.org/progetto-assistenza-familiare.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-assistenza-familiare.html",
+   "en": "https://www.watotokenya.org/en/progetto-assistenza-familiare.html",
+   "x-default": "https://www.watotokenya.org/progetto-assistenza-familiare.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Assistenza familiare alternativa"
+    ],
+    "images": [
+     "assets/img/testata-6.webp"
+    ],
+    "chars": 49
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/project-family.webp"
+    ],
+    "chars": 256
+   }
+  ]
+ },
+ {
+  "file": "progetto-assistenza-sociale.html",
+  "slug": "progetto-assistenza-sociale",
+  "lang": "it",
+  "type": "project",
+  "title": "Assistenza sociale alternativa | Watoto Kenya ODV",
+  "description": "L’associazione sostiene bambini e famiglie in situazioni di vulnerabilità, favorendo percorsi di cura nel contesto familiare e della comunità.",
+  "canonical": "https://www.watotokenya.org/progetto-assistenza-sociale.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-assistenza-sociale.html",
+   "en": "https://www.watotokenya.org/en/progetto-assistenza-sociale.html",
+   "x-default": "https://www.watotokenya.org/progetto-assistenza-sociale.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Assistenza sociale alternativa"
+    ],
+    "images": [
+     "assets/img/testata-6.webp"
+    ],
+    "chars": 47
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [
+     "Scopri anche",
+     "Assistenza familiare alternativa"
+    ],
+    "images": [
+     "assets/img/project-family.webp",
+     "assets/img/project-family.webp"
+    ],
+    "chars": 375
+   }
+  ]
+ },
+ {
+  "file": "progetto-borse-studio.html",
+  "slug": "progetto-borse-studio",
+  "lang": "it",
+  "type": "project",
+  "title": "Borse di studio | Watoto Kenya ODV",
+  "description": "Il programma di borse di studio ha sostenuto percorsi scolastici e formativi, anche per studenti con disabilità e ragazzi in assistenza familiare.",
+  "canonical": "https://www.watotokenya.org/progetto-borse-studio.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-borse-studio.html",
+   "en": "https://www.watotokenya.org/en/progetto-borse-studio.html",
+   "x-default": "https://www.watotokenya.org/progetto-borse-studio.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Borse di studio"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 32
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/project-students.webp"
+    ],
+    "chars": 164
+   }
+  ]
+ },
+ {
+  "file": "progetto-convitto.html",
+  "slug": "progetto-convitto",
+  "lang": "it",
+  "type": "project",
+  "title": "Convitto | Watoto Kenya ODV",
+  "description": "Un progetto storico collegato al percorso educativo dei ragazzi e delle ragazze sostenuti dall’associazione.",
+  "canonical": "https://www.watotokenya.org/progetto-convitto.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-convitto.html",
+   "en": "https://www.watotokenya.org/en/progetto-convitto.html",
+   "x-default": "https://www.watotokenya.org/progetto-convitto.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Convitto"
+    ],
+    "images": [
+     "assets/img/testata-6.webp"
+    ],
+    "chars": 25
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/project-students.webp"
+    ],
+    "chars": 213
+   }
+  ]
+ },
+ {
+  "file": "progetto-dignity-kids.html",
+  "slug": "progetto-dignity-kids",
+  "lang": "it",
+  "type": "project",
+  "title": "Dignity Kids Project | Watoto Kenya ODV",
+  "description": "Un progetto presentato dall’associazione nell’area dedicata al lavoro e allo sviluppo economico.",
+  "canonical": "https://www.watotokenya.org/progetto-dignity-kids.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-dignity-kids.html",
+   "en": "https://www.watotokenya.org/en/progetto-dignity-kids.html",
+   "x-default": "https://www.watotokenya.org/progetto-dignity-kids.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Dignity Kids Project"
+    ],
+    "images": [
+     "assets/img/testata-3.webp"
+    ],
+    "chars": 37
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-2.webp"
+    ],
+    "chars": 160
+   }
+  ]
+ },
+ {
+  "file": "progetto-educazione-formazione.html",
+  "slug": "progetto-educazione-formazione",
+  "lang": "it",
+  "type": "project",
+  "title": "Educazione e formazione | Watoto Kenya ODV",
+  "description": "Il diritto allo studio apre possibilità concrete per le nuove generazioni. Sosteniamo percorsi di apprendimento e formazione insieme alle scuole e alla…",
+  "canonical": "https://www.watotokenya.org/progetto-educazione-formazione.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-educazione-formazione.html",
+   "en": "https://www.watotokenya.org/en/progetto-educazione-formazione.html",
+   "x-default": "https://www.watotokenya.org/progetto-educazione-formazione.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Educazione e formazione"
+    ],
+    "images": [
+     "assets/img/testata-7.webp"
+    ],
+    "chars": 40
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [
+     "Scopri anche",
+     "Programma alimentare integrato",
+     "Emancipazione femminile – Kit Dignità",
+     "Borse di studio"
+    ],
+    "images": [
+     "assets/img/hero-school.webp",
+     "assets/img/hero-nutrition.webp",
+     "assets/img/news-2.webp",
+     "assets/img/project-students.webp"
+    ],
+    "chars": 786
+   }
+  ]
+ },
+ {
+  "file": "progetto-kit-dignita.html",
+  "slug": "progetto-kit-dignita",
+  "lang": "it",
+  "type": "project",
+  "title": "Emancipazione femminile – Kit Dignità | Watoto Kenya ODV",
+  "description": "I kit, prodotti dalla sartoria sociale, uniscono prodotti lavabili e informazione sulla salute mestruale. Il progetto sostiene dignità, salute e…",
+  "canonical": "https://www.watotokenya.org/progetto-kit-dignita.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-kit-dignita.html",
+   "en": "https://www.watotokenya.org/en/progetto-kit-dignita.html",
+   "x-default": "https://www.watotokenya.org/progetto-kit-dignita.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Emancipazione femminile – Kit Dignità"
+    ],
+    "images": [
+     "assets/img/testata-3.webp"
+    ],
+    "chars": 54
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/news-2.webp"
+    ],
+    "chars": 186
+   }
+  ]
+ },
+ {
+  "file": "progetto-lavoro-sviluppo.html",
+  "slug": "progetto-lavoro-sviluppo",
+  "lang": "it",
+  "type": "project",
+  "title": "Lavoro e sviluppo economico | Watoto Kenya ODV",
+  "description": "Formazione e iniziative economiche possono creare opportunità di lavoro e rafforzare l’autonomia delle persone e delle famiglie.",
+  "canonical": "https://www.watotokenya.org/progetto-lavoro-sviluppo.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-lavoro-sviluppo.html",
+   "en": "https://www.watotokenya.org/en/progetto-lavoro-sviluppo.html",
+   "x-default": "https://www.watotokenya.org/progetto-lavoro-sviluppo.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Lavoro e sviluppo economico"
+    ],
+    "images": [
+     "assets/img/testata-2.webp"
+    ],
+    "chars": 44
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [
+     "Scopri anche",
+     "Sartoria Watoto Kenya Trust",
+     "Dignity Kids Project"
+    ],
+    "images": [
+     "assets/img/project-sewing.webp",
+     "assets/img/project-sewing.webp",
+     "assets/img/news-2.webp"
+    ],
+    "chars": 463
+   }
+  ]
+ },
+ {
+  "file": "progetto-microprogetti.html",
+  "slug": "progetto-microprogetti",
+  "lang": "it",
+  "type": "project",
+  "title": "Micro progetti e micro imprese | Watoto Kenya ODV",
+  "description": "Un progetto storico dedicato a formazione, iniziative economiche e opportunità di lavoro nella comunità.",
+  "canonical": "https://www.watotokenya.org/progetto-microprogetti.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-microprogetti.html",
+   "en": "https://www.watotokenya.org/en/progetto-microprogetti.html",
+   "x-default": "https://www.watotokenya.org/progetto-microprogetti.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Micro progetti e micro imprese"
+    ],
+    "images": [
+     "assets/img/testata-2.webp"
+    ],
+    "chars": 47
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/project-sewing.webp"
+    ],
+    "chars": 209
+   }
+  ]
+ },
+ {
+  "file": "progetto-programma-alimentare.html",
+  "slug": "progetto-programma-alimentare",
+  "lang": "it",
+  "type": "project",
+  "title": "Programma alimentare integrato | Watoto Kenya ODV",
+  "description": "Il programma sostiene i pasti e le colazioni nelle scuole, contribuendo al benessere dei bambini e alla continuità del percorso scolastico.",
+  "canonical": "https://www.watotokenya.org/progetto-programma-alimentare.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-programma-alimentare.html",
+   "en": "https://www.watotokenya.org/en/progetto-programma-alimentare.html",
+   "x-default": "https://www.watotokenya.org/progetto-programma-alimentare.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Programma alimentare integrato"
+    ],
+    "images": [
+     "assets/img/testata-8.webp"
+    ],
+    "chars": 47
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/hero-nutrition.webp"
+    ],
+    "chars": 157
+   }
+  ]
+ },
+ {
+  "file": "progetto-sartoria.html",
+  "slug": "progetto-sartoria",
+  "lang": "it",
+  "type": "project",
+  "title": "Sartoria Watoto Kenya Trust | Watoto Kenya ODV",
+  "description": "Il laboratorio di sartoria realizza manufatti e Kit Dignità, collegando competenze locali, salute e opportunità di lavoro.",
+  "canonical": "https://www.watotokenya.org/progetto-sartoria.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/progetto-sartoria.html",
+   "en": "https://www.watotokenya.org/en/progetto-sartoria.html",
+   "x-default": "https://www.watotokenya.org/progetto-sartoria.html"
+  },
+  "sections": [
+   {
+    "class": "article-hero has-photo",
+    "id": null,
+    "headings": [
+     "Sartoria Watoto Kenya Trust"
+    ],
+    "images": [
+     "assets/img/testata-4.webp"
+    ],
+    "chars": 44
+   },
+   {
+    "class": "wrap project-content",
+    "id": null,
+    "headings": [],
+    "images": [
+     "assets/img/project-sewing.webp"
+    ],
+    "chars": 140
+   }
+  ]
+ },
+ {
+  "file": "sostienici.html",
+  "slug": "sostienici",
+  "lang": "it",
+  "type": "page",
+  "title": "Il futuro cresce anche grazie a te. | Watoto Kenya ODV",
+  "description": "Il tuo sostegno accompagna bambini e giovani di Makobeni nei percorsi di istruzione, assistenza e autonomia.",
+  "canonical": "https://www.watotokenya.org/sostienici.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/sostienici.html",
+   "en": "https://www.watotokenya.org/en/sostienici.html",
+   "x-default": "https://www.watotokenya.org/sostienici.html"
+  },
+  "sections": [
+   {
+    "class": "donation-hero",
+    "id": null,
+    "headings": [
+     "Il futuro cresce anche grazie a te."
+    ],
+    "images": [
+     "assets/img/testata-1.webp"
+    ],
+    "chars": 172
+   },
+   {
+    "class": "wrap donation-content",
+    "id": null,
+    "headings": [
+     "Un gesto che apre possibilità.",
+     "Tre modi per aiutare",
+     "Con carta o PayPal",
+     "I dati per la tua donazione",
+     "Hai bisogno di informazioni?"
+    ],
+    "images": [],
+    "chars": 1434
+   },
+   {
+    "class": "cinque",
+    "id": "cinque-per-mille",
+    "headings": [
+     "Il tuo 5×1000 non ti costa nulla."
+    ],
+    "images": [],
+    "chars": 344
+   }
+  ]
+ },
+ {
+  "file": "vision-mission.html",
+  "slug": "vision-mission",
+  "lang": "it",
+  "type": "page",
+  "title": "Vision e Mission | Watoto Kenya ODV",
+  "description": "Nuove generazioni che, attraverso la conoscenza, possano affermare la propria dignità e scegliere il proprio futuro.",
+  "canonical": "https://www.watotokenya.org/vision-mission.html",
+  "alternates": {
+   "it": "https://www.watotokenya.org/vision-mission.html",
+   "en": "https://www.watotokenya.org/en/vision-mission.html",
+   "x-default": "https://www.watotokenya.org/vision-mission.html"
+  },
+  "sections": [
+   {
+    "class": "about-hero inner-hero has-photo",
+    "id": null,
+    "headings": [
+     "Vision e Mission"
+    ],
+    "images": [
+     "assets/img/testata-2.webp"
+    ],
+    "chars": 75
+   },
+   {
+    "class": "wrap info-grid",
+    "id": null,
+    "headings": [
+     "La nostra visione",
+     "La nostra missione"
+    ],
+    "images": [],
+    "chars": 290
+   },
+   {
+    "class": "about-values",
+    "id": null,
+    "headings": [
+     "Dai valori alle azioni.",
+     "Educare",
+     "Assistere",
+     "Creare opportunità"
+    ],
+    "images": [],
+    "chars": 241
+   }
+  ]
+ }
+]
